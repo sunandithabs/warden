@@ -1,3 +1,5 @@
+[![Tests](https://github.com/sunandithabs/WARDEN/actions/workflows/tests.yml/badge.svg)](https://github.com/sunandithabs/WARDEN/actions/workflows/tests.yml)
+
 weak authentication & rogue diagnostic-session event notifier
 
 a uds (iso 14229) diagnostic session security simulator over socketcan. brute-forces a weak seed-key handshake and detects the attack live.
